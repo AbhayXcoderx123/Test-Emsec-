@@ -23,3 +23,13 @@ curl --location --request PATCH 'localhost:3000/shirt/14' \
 
 curl --location --request DELETE 'localhost:3000/tasks/11' \
 --data-raw ''
+
+
+To start the the program :- 
+1. Go to the task definition directory
+2. And run npm install
+3. And run npm start
+4. install the required libraries -
+npm i express
+npm i --save sequelize
+npm i --save body-parser
