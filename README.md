@@ -38,3 +38,8 @@ To start the the program :-
 npm i express
 npm i --save sequelize
 npm i --save body-parser
+![WhatsApp Image 2023-02-12 at 3 49 15 PM](https://user-images.githubusercontent.com/103772939/218307328-ea2ca359-05a3-4ca7-8a92-89f3c2cc3eaf.jpeg)
+![WhatsApp Image 2023-02-12 at 3 48 46 PM](https://user-images.githubusercontent.com/103772939/218307334-6aa380e4-e759-4ab0-a6ad-df5afb541912.jpeg)
+![WhatsApp Image 2023-02-12 at 3 34 31 PM](https://user-images.githubusercontent.com/103772939/218307346-6f9a522c-7e62-4abc-97af-73c7625aa8d7.jpeg)
+![WhatsApp Image 2023-02-12 at 3 34 09 PM](https://user-images.githubusercontent.com/103772939/218307350-232b1631-d3f4-4961-a043-0b39d8488a35.jpeg)
+
